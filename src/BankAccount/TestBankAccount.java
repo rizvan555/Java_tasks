@@ -19,5 +19,6 @@ public class TestBankAccount {
         System.out.println("Email: " + account1.getEmail());
 
         System.out.println("--------------------------------------------------");
+
     }
 }
