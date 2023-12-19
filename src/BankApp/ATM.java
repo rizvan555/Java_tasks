@@ -60,5 +60,5 @@ public class ATM {
             }else {
                 System.out.println("Invalid operation");
             }
-}}
-}
+}}};
+
